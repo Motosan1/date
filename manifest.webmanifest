@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Basketball Touch Analyst",
+  "short_name": "バスケ分析",
+  "description": "オフラインで記録・分析できるバスケットボール試合分析アプリ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1320",
+  "theme_color": "#101827",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
